@@ -1,4 +1,4 @@
-import {sayHello} from "./func/overloads";
+import {sayHello} from "./func/overloads.js";
 
 
 sayHello();
